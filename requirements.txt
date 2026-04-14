@@ -1,0 +1,6 @@
+numpy==2.4.4
+py_soma_x==0.1.0
+scipy==1.17.1
+smplfitter==0.4.1
+torch==2.11.0
+trimesh==4.11.5
